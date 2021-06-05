@@ -1,6 +1,7 @@
 // https://leetcode.com/problems/find-the-duplicate-number/
 
 // Use Floyd's cycle finding algorithm
+// Explaination: https://www.codingninjas.com/blog/2020/09/09/floyds-cycle-detection-algorithm/
 
 function findDuplicate(arr) {
     let slow = 0;
